@@ -50,7 +50,7 @@
 ## 5. Описание хранимых данных (реляционная схема)
 
 <div id="header" align="center">
-  <img src="https://github.com/QuanRy/SUBD/blob/Grigoriev-(Negibkaya)/images/model.PNG" width="500"/>
+  <img src="https://github.com/QuanRy/SUBD/blob/Grigoriev-(Negibkaya)/images/model.png" width="500"/>
   <p> Рисунок 1 – реляционная схема БД </p> 
 </div>
 
@@ -112,18 +112,18 @@
 ## 8. Макет интерфейса
 
 <div id="header" align="center">
-  <img src="https://github.com/QuanRy/SUBD/blob/Grigoriev-(Negibkaya)/images/Main.PNG" width="500"/>
+  <img src="https://github.com/QuanRy/SUBD/blob/Grigoriev-(Negibkaya)/images/Main.png" width="500"/>
   <p> Рисунок 2 – примерный внешний вид Main Page </p> 
 </div>
 <div id="header" align="center">
-  <img src="https://github.com/QuanRy/SUBD/blob/Grigoriev-(Negibkaya)/images/Topic.PNG" width="500"/>
+  <img src="https://github.com/QuanRy/SUBD/blob/Grigoriev-(Negibkaya)/images/Topic.png" width="500"/>
   <p> Рисунок 3 – примерный внешний вид Topic Page </p> 
 </div>
 <div id="header" align="center">
-  <img src="https://github.com/QuanRy/SUBD/blob/Grigoriev-(Negibkaya)/images/Announc.PNG" width="500"/>
+  <img src="https://github.com/QuanRy/SUBD/blob/Grigoriev-(Negibkaya)/images/Announc.png" width="500"/>
   <p> Рисунок 4 – примерный внешний вид Announcment Page </p> 
 </div>
 <div id="header" align="center">
-  <img src="https://github.com/QuanRy/SUBD/blob/Grigoriev-(Negibkaya)/images/Post.PNG" width="500"/>
+  <img src="https://github.com/QuanRy/SUBD/blob/Grigoriev-(Negibkaya)/images/Post.png" width="500"/>
   <p> Рисунок 5 – примерный внешний вид Post Page </p> 
 </div>
