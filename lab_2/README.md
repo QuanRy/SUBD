@@ -143,7 +143,7 @@
 ## CRUD
 <div id="header" align="center">
   <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/lab_2/4_start_users_table.PNG" width="500"/>
-  <p> Рисунок 3 – Начальная таблица </p> 
+  <p> Рисунок 3 – Начальная таблица "users" до внесения изменения с помощью CRUD </p> 
 </div>
 
 ### INSERT
@@ -151,13 +151,16 @@
 <div id="header" align="center">
   <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/lab_2/5_result_insert.PNG" width="500"/>
 </div>
+
 ### UPDATE
 ##### UPDATE users SET FIO = 'Скалова Ксения Андреевна' WHERE FIO = 'Абрамова Ксения Андреевна';
 <div id="header" align="center">
   <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/lab_2/6_result_update.PNG" width="500"/>
 </div>
+
 ### DELETE
 ##### DELETE from users where users.id_user = 11 and users.FIO = 'Иванов Иван Иванов';
 <div id="header" align="center">
   <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/lab_2/7_result_delete.PNG" width="500"/>
+    <p> Рисунок 4 – Конечная таблица "users" после внесения правок с помощью CRUD </p> 
 </div>
