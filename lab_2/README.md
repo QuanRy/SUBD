@@ -139,7 +139,7 @@
 <div id="header" align="center">
   <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/lab_2/3_join_request.PNG" width="500"/>
 </div>
-## 
+
 ## CRUD
 <div id="header" align="center">
   <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/lab_2/4_start_users_table.PNG" width="500"/>
