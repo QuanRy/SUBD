@@ -209,3 +209,10 @@
 
 ------------------------------ Закрытие соединения с БД ------------------------------
 ##### conn.close()
+
+## Пример работы приложения:
+<div id="header" align="center">
+  <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/lab_3/1_welcome_window.JPG" width="500"/>
+  <p> Рисунок 1 – реляционная схема БД, полученная при создании БД в SQLite </p> 
+</div>
+
