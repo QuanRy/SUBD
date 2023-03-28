@@ -213,6 +213,45 @@
 ## Пример работы приложения:
 <div id="header" align="center">
   <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/lab_3/1_welcome_window.JPG" width="500"/>
-  <p> Рисунок 1 – реляционная схема БД, полученная при создании БД в SQLite </p> 
+  <p> Рисунок 2 – Начальное окно приложения </p> 
 </div>
 
+<div id="header" align="center">
+  <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/lab_3/2_1_request.JPG" width="500"/>
+  <p> Рисунок 3 – Результат 1-го запроса («Показать споры с информацией о бренде товара, ФИО заказчика, причины спора») </p> 
+</div>
+
+<div id="header" align="center">
+  <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/lab_3/3_2_request.JPG" width="500"/>
+  <p> Рисунок 4 – Результат 2-го запроса («Показать сообщения на форуме, написанных не более 30-ти дней назад») </p> 
+</div>
+
+<div id="header" align="center">
+  <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/lab_3/3_3_request.JPG" width="500"/>
+  <p> Рисунок 5 – Результат 3-го запроса («Показать не более 15-ти отзывов, авторы которых достигли совершеннолетия») </p> 
+</div>
+
+<div id="header" align="center">
+  <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/lab_3/3_4_2_request.JPG" width="500"/>
+  <p> Рисунок 6 – Результат 4-го запроса («Добавить нового пользователя») </p> 
+</div>
+
+<div id="header" align="center">
+  <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/lab_3/3_5_1_request.JPG" width="500"/>
+  <p> Рисунок 7 – Начало 5-го запроса («Обновить ФИО пользователя») </p> 
+</div>
+
+<div id="header" align="center">
+  <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/lab_3/3_5_2_request.JPG" width="500"/>
+  <p> Рисунок 8 – Результат 5-го запроса («Обновить ФИО пользователя») </p> 
+</div>
+
+<div id="header" align="center">
+  <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/lab_3/3_6_1_request.JPG" width="500"/>
+  <p> Рисунок 9 – Начало 6-го запроса («Удалить пользователя») </p> 
+</div>
+
+<div id="header" align="center">
+  <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/lab_3/3_6_1_request.JPG" width="500"/>
+  <p> Рисунок 10 – Результат 6-го запроса («Удалить пользователя») </p> 
+</div>
