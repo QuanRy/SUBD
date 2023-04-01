@@ -7,7 +7,6 @@
   <H1>Ход работы:</H1>
 </div>
 
-## Схема, полученная с помощью кода:
 <div id="header" align="center">
   <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/lab_2/schema_relative_lab_2.PNG" width="500"/>
   <p> Рисунок 1 – реляционная схема БД </p> 
