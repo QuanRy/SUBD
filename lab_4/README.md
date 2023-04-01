@@ -12,6 +12,7 @@
 ##### Представлен в файле lab_4_mongo.py в данной директории.
 ##### Или вы можете посмотреть его, перейдя по этой ссылке: https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/lab_4/lab_4_mongo.py
 
+#
 ## Пример работы приложения:
 
 <div id="header" align="center">
