@@ -26,7 +26,7 @@
 #
 ## 5.	Описание хранимых данных (реляционная схема)
 <div id="header" align="center">
-  <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/relative_schema.PNG" width="500"/>
+  <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/lab_1/relative_schema.png" width="500"/>
   <p> Рисунок 1 – реляционная схема БД </p> 
 </div>
 
@@ -92,7 +92,7 @@
 ## 8.	Макет интерфейса
 
 <div id="header" align="center">
-  <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/figma.PNG" width="500"/>
+  <img src="https://github.com/QuanRy/SUBD/blob/Samorokov-(QuanRy)/images/lab_1/figma.png" width="500"/>
   <p> Рисунок 2 – примерный внешний вид веб-сайта </p> 
 </div>
 
