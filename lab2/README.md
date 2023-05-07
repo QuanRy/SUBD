@@ -282,6 +282,8 @@ UPDATE brands set name = 'Nike SB' where name = 'nike';
 DELETE FROM products where products.price = 15000;
 DELETE from seasons where id = 1;
 
-
+<div id="header" align="center">
+  <img src="https://github.com/QuanRy/SUBD/blob/Novruzov-(serega854)/lab2/img/111.PNG" width="500"/>
+</div>
 
 
